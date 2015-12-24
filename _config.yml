@@ -1,0 +1,29 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author:
+  name: yyxs
+  email: 982273010@qq.com
+  link: https://github.com/yyxs
+  weibo: http://weibo.com/yyxs
+  github: https://github.com/yyxs
+
+# 站点信息
+title: yyxs's blog
+description: yyxs's博客
+url: http://yyxs.github.io
+rss_url: /pages/atom.xml
+
+#多说配置
+duoshuo_short_name:
+
+#Google站内搜索
+google_cx: google
+
+# avatar头像及Favicon
+avatar: http://tp4.sinaimg.cn/2591684931/180/5629372297/1
+favicon: http://tp4.sinaimg.cn/2591684931/180/5629372297/1
