@@ -1,22 +1,22 @@
 # Site settings
-title: Kylo's Blog
-SEOTitle: 黑の透明 | Kylo's Blog
+title: Yyxs's Blog
+SEOTitle: Yyxs's Blog
 header-img: img/home-bg.jpg
-email: kylo.zw@gmail.com
+email: 982273010@qq.com
 description: "hello world"
-keyword: "黑の透明, Kylo's Blog"
-url: "http://kylozw.github.io"              # your host, for absolute URL
+keyword: "Yyxs's Blog"
+url: "http://yyxs.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: true
-weibo_username:     kylozw
-zhihu_username:     kylo
-github_username:    kylozw
+weibo_username:     yyxs
+zhihu_username:     yyxs
+github_username:    yyxs
 #twitter_username:  huxpro
-facebook_username:  kylo
+facebook_username:  yyxs
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -69,8 +69,8 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，我想去看看。"
-sidebar-avatar: /img/avatar-kylo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "写写代码，做做设计，看看产品。"
+sidebar-avatar: /img/yyxs.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -83,7 +83,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "yyxs",
-        href: "http://yyxs.github.io/"
+        title: "kylozw",
+        href: "http://kylozw.github.io/"
     }
 ]
