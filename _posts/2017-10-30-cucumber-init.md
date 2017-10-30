@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  cucumber background 与 hooks
-subtitle: 'Tools'
+subtitle: '自动化测试'
 date: 2017-10-30T00:00:00.000Z
 author: yyxs
 catalog: true
 tags:
-  - tools
+  - 自动化测试
 ---
 
 ## Background
